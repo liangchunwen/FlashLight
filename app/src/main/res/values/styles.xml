@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- 标题栏隐藏 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 状态栏隐藏 -->
+        <item name="android:windowFullscreen">true</item>
+        <!-- 设置App背景 -->
+        <item name="android:background">@drawable/flashlight_backgound</item>
+        <item name="colorPrimary">@color/colorBlack</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
